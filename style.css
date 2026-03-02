@@ -1,0 +1,29 @@
+body {
+  background-color: #f5f0e6;
+  font-family: Arial;
+  text-align: center;
+}
+
+header {
+  background-color: #e8dfcf;
+  padding: 20px;
+}
+
+textarea {
+  width: 60%;
+  height: 100px;
+  margin: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #d6c7b0;
+  border: none;
+  cursor: pointer;
+}
+
+#response {
+  margin-top: 20px;
+  padding: 20px;
+  background: #e8dfcf;
+}
